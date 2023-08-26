@@ -1,0 +1,11 @@
+Model Information:
+* title:	Realistic Left Hand
+* source:	https://sketchfab.com/3d-models/realistic-left-hand-97208693ce4b43729cdcc35621c51bc0
+* author:	Ian Christopher (https://sketchfab.com/ianchrisjohn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Realistic Left Hand" (https://sketchfab.com/3d-models/realistic-left-hand-97208693ce4b43729cdcc35621c51bc0) by Ian Christopher (https://sketchfab.com/ianchrisjohn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

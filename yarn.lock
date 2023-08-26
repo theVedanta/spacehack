@@ -263,6 +263,15 @@
     suspend-react "^0.1.3"
     zustand "^3.7.1"
 
+"@react-three/xr@^5.6.2":
+  version "5.6.2"
+  resolved "https://registry.yarnpkg.com/@react-three/xr/-/xr-5.6.2.tgz#5c886d708d685dcdd67836aa952756aacba7a7a5"
+  integrity sha512-z+MX/R/rwA/RTGOW/Z5Y8atbwYT55blV3mcduVbPCd6X2Qd63wbjqvgETxzPWYHosOFiyltsxvSv2IvW6RFjYA==
+  dependencies:
+    "@types/webxr" "*"
+    three-stdlib "^2.21.1"
+    zustand "^3.7.1"
+
 "@rushstack/eslint-patch@^1.1.3":
   version "1.3.3"
   resolved "https://registry.yarnpkg.com/@rushstack/eslint-patch/-/eslint-patch-1.3.3.tgz#16ab6c727d8c2020a5b6e4a176a243ecd88d8d69"
@@ -2565,7 +2574,7 @@ three-render-objects@^1.28:
     kapsule "1"
     polished "4"
 
-three-stdlib@^2.23.9:
+three-stdlib@^2.21.1, three-stdlib@^2.23.9:
   version "2.25.0"
   resolved "https://registry.yarnpkg.com/three-stdlib/-/three-stdlib-2.25.0.tgz#ea9492fa02f4cde61ae0c9c7faf266d95081247e"
   integrity sha512-E1zW4szHzRsQqiYWzDwBDn7xkeoZEUeIrzyI//AClSi9t7m6BIcN1dWTUATVoNw9Z5d8FhGHCfwgo4tFJ2T8+Q==
