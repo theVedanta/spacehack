@@ -63,9 +63,7 @@ const Home = () => {
             });
             camera.start();
         } catch (e) {
-            console.log("====================================");
             console.log(e);
-            console.log("====================================");
         }
     });
 
