@@ -6,7 +6,7 @@ const Model = () => {
     const gltf = useLoader(GLTFLoader, "/satellite/scene.gltf");
     const colorMap = useLoader(
         TextureLoader,
-        "/satellite/textures/blinn1SG_diffuse.png"
+        "/satellite/textures/blinn1SG_specularGlossiness.png"
     );
 
     return (

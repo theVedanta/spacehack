@@ -1,16 +1,6 @@
-import Satellite from "@/components/Satellite";
+import Model from "@/components/Model";
 import { Environment, OrbitControls } from "@react-three/drei";
 import { Canvas } from "@react-three/fiber";
-import {
-    VRButton,
-    ARButton,
-    XR,
-    Controllers,
-    Hands,
-    useXR,
-    XREvent,
-    XRManagerEvent,
-} from "@react-three/xr";
 
 const VR = () => {
     return (
@@ -32,9 +22,8 @@ const CanvasCollection = () => {
                 <OrbitControls />
 
                 {/* GEOMETRY */}
-                {/* <Model /> */}
+                <Model />
                 <Environment preset="night" background />
-                <Satellite />
             </Canvas>
         </div>
     );
