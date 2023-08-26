@@ -25,5 +25,8 @@
         "satellite.js": "^5.0.0",
         "three": "^0.155.0",
         "typescript": "5.2.2"
+    },
+    "devDependencies": {
+        "next-dev-https": "^0.13.3"
     }
 }
